@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/projects/curso_cpp_uc3m/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IE:/projects/curso_cpp_uc3m/include -IC:/libs/GSL/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c E:\\projects\\curso_cpp_uc3m\\src\\main.cpp",
+  "file": "E:\\projects\\curso_cpp_uc3m\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "E:/projects/curso_cpp_uc3m/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IE:/projects/curso_cpp_uc3m/include -IC:/libs/GSL/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o CMakeFiles\\main.dir\\src\\array_fijo.cpp.obj -c E:\\projects\\curso_cpp_uc3m\\src\\array_fijo.cpp",
+  "file": "E:\\projects\\curso_cpp_uc3m\\src\\array_fijo.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\array_fijo.cpp.obj"
+},
+{
+  "directory": "E:/projects/curso_cpp_uc3m/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IE:/projects/curso_cpp_uc3m/include -IC:/libs/GSL/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o CMakeFiles\\main.dir\\src\\vector_fijo.cpp.obj -c E:\\projects\\curso_cpp_uc3m\\src\\vector_fijo.cpp",
+  "file": "E:\\projects\\curso_cpp_uc3m\\src\\vector_fijo.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\vector_fijo.cpp.obj"
+},
+{
+  "directory": "E:/projects/curso_cpp_uc3m/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IE:/projects/curso_cpp_uc3m/include -IC:/libs/GSL/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o CMakeFiles\\main.dir\\src\\array_fijo_smart.cpp.obj -c E:\\projects\\curso_cpp_uc3m\\src\\array_fijo_smart.cpp",
+  "file": "E:\\projects\\curso_cpp_uc3m\\src\\array_fijo_smart.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\array_fijo_smart.cpp.obj"
+}
+]

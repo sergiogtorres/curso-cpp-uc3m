@@ -1,0 +1,7 @@
+# ninja log v7
+9	50	7838213934028933	CMakeFiles/main.dir/src/vector_fijo.cpp.obj	2ecde6e2abf55085
+23	1588	7838226298567695	CMakeFiles/main.dir/src/array_fijo.cpp.obj	528c0ca9aa0cebf5
+3	1381	7838263628181220	CMakeFiles/main.dir/src/main.cpp.obj	23d908b5eae369bd
+1302	1425	7838262695394863	main.exe	dd24d2d0029d031e
+3	1393	7838265829776971	CMakeFiles/main.dir/src/array_fijo_smart.cpp.obj	45049021fb1e5379
+1394	1568	7838265843681714	main.exe	c7788292645dc18

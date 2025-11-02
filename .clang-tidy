@@ -1,0 +1,14 @@
+Checks: >
+  *,
+  -clang-analyzer-alpha*,
+  -fuchsia*,
+  -android*,
+  -llvm-header-guard
+
+WarningsAsErrors: ''
+
+CheckOptions:
+  - key: modernize-use-nullptr.NullMacros
+    value: 'NULL'
+  - key: readability-identifier-naming.VariableCase
+    value: camelBack
